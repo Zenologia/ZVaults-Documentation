@@ -1,6 +1,8 @@
 # 🔐 ZVaults
 *Developed by Zenologia*
 
+**Note: This is only public documenation.  The code is private.**
+
 A per-player, per-vault cooldown system for Minecraft trial vaults — built for Paper 26.1.x servers on Java 25.
 Drop it in and every `TRIAL_KEY` / `OMINOUS_TRIAL_KEY` interaction is gated by a configurable delay, tracked by block position + player UUID, with three pluggable storage backends and a polished admin command suite.
 
